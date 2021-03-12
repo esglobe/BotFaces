@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotReconoceRostros", "BotReconoceRostros\BotReconoceRostros.csproj", "{FEDA686B-A899-48C3-977E-B626DAF150DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDA686B-A899-48C3-977E-B626DAF150DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDA686B-A899-48C3-977E-B626DAF150DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDA686B-A899-48C3-977E-B626DAF150DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDA686B-A899-48C3-977E-B626DAF150DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B96669E2-ACF7-46F5-BB21-014340678EC7}
+	EndGlobalSection
+EndGlobal
